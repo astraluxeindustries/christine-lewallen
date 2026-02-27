@@ -11,27 +11,27 @@ export const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-slate-100 rounded-br-3xl -z-10"></div>
               <img 
                 src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=988&q=80" 
-                alt="Sarah Jenkins" 
+                alt="Christine Lewallen" 
                 className="rounded-xl shadow-lg w-full object-cover h-[500px]"
               />
             </div>
           </div>
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-6">
-              About Sarah Jenkins
+              About Christine
             </h2>
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
-                With over 15 years of experience in the mortgage industry, I have dedicated my career to helping families achieve the dream of homeownership. My approach is simple: listen first, advise second.
+                Christine is a proud Nevada native who has built her mortgage career serving the community she calls home. Born and raised in the Silver State, she brings local market insight, trusted relationships, and a deep understanding of Nevada’s real estate landscape to every client she works with.
               </p>
               <p>
-                I understand that a mortgage is not just a loan; it's likely the largest financial commitment you will make. That's why I take the time to explain every detail, ensuring you feel confident and empowered throughout the process.
+                Whether you are buying your first home, refinancing, relocating, or building from the ground up, Christine provides clear guidance and tailored lending strategies designed around your long-term goals. She closely monitors interest rate trends, underwriting updates, and loan program changes so her clients can make informed and confident decisions.
               </p>
               <p>
-                Whether you are buying your first home, investing in real estate, or refinancing, I am committed to finding the best loan solution for your unique situation.
+                Christine specializes in VA Loans and is deeply committed to serving veterans and active duty service members with the care and precision they deserve. She also offers expertise in conventional, FHA, and refinance options, ensuring each borrower is matched with the loan structure that truly fits their financial picture.
               </p>
               <p>
-                When I'm not closing loans, you can find me hiking the trails of the Pacific Northwest or volunteering at the local food bank.
+                Clients value Christine for her responsiveness, accessibility, and attention to detail. She works closely with homebuyers, homeowners, and referral partners to create a streamlined and efficient lending experience from application to closing. Because real estate moves quickly, she makes herself available evenings and weekends to ensure no question goes unanswered. Her approach is simple. Deliver honest advice, maintain proactive communication, and create a smooth path to homeownership.
               </p>
             </div>
             <div className="mt-8 pt-8 border-t border-slate-100 grid grid-cols-2 gap-4">
